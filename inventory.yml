@@ -1,3 +1,4 @@
+spring:
   datasource:
     url: jdbc:postgresql://localhost:6000/Ecomerce_app
     username: postgres
